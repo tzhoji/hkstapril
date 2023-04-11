@@ -15,20 +15,19 @@ const categories = [
       title: "headset",
       imagefile:
         "https://tronicsmerch.com/wp-content/uploads/2021/01/1774-ilhton.jpg",
-        route: 'shop/headset'
+        route: 'shop/electronics'
     },
     {
       id: 1003,
       title: "laptop",
       imagefile: "https://i5.walmartimages.com/asr/012bbfba-813e-4753-818d-8b0159c0cac8.1e540593f4d94c78082e3ec6f8865ff9.jpeg",
-      route: 'shop/laptop'
+      route: 'shop/computer'
     },
     {
       id: 1004,
       title: "carbonated",
-      imagefile:
-        "https://faf.company/wp-content/uploads/2021/05/colapng-768x528.png",
-        route: 'shop/carbonated'
+      imagefile:"https://faf.company/wp-content/uploads/2021/05/colapng-768x528.png",
+      route: 'shop/drink'
     },
     {
       id: 1005,
